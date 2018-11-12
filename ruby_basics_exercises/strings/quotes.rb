@@ -1,0 +1,1 @@
+puts %Q(She said, "It's time to go!")
